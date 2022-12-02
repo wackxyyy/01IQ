@@ -1,6 +1,6 @@
 Hello
 World
-NICE
+NIco
 <<<<<<< HEAD
 Second
 =======
