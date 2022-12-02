@@ -1,3 +1,9 @@
 Hello
 World
+NICE
+<<<<<<< HEAD
 Second
+=======
+goga
+
+>>>>>>> 147c3ea8083ef6a367f9ee355e44f9409579e534
